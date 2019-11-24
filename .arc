@@ -5,6 +5,7 @@ dimsum-zo7
 
 @http
 get /
+get /api/contact
 
 @tables
 data
