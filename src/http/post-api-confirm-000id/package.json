@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-post-api-confirm-000id",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
