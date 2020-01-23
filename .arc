@@ -8,6 +8,7 @@ get /
 get /api/contact
 post /api/contact
 post /api/register
+post /api/confirm/:id
 
 @tables
 data
