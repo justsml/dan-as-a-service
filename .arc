@@ -7,6 +7,7 @@ dimsum-zo7
 get /
 get /api/contact
 post /api/contact
+post /api/register
 
 @tables
 data
