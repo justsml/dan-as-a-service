@@ -25,6 +25,8 @@ exports.handler = async function http(req) {
     createdDate: new Date(),
     source: body.source || req.headers.get('referer') || 'site',
   })
+  
+  console.log('Signup:', result)
 
   return {
     statusCode: 200,
